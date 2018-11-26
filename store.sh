@@ -1,5 +1,6 @@
 
 #!/bin/bash
+echo 'Nuts'
 echo 'Pista'
 echo 'Badam'
 echo 'Walnut'
